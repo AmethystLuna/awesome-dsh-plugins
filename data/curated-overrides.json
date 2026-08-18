@@ -7,7 +7,8 @@
       "url": "https://github.com/AmethystLuna/embedded-workbench",
       "verdict": "✅ 运行级可用",
       "desc": "嵌入式 C/C++ 固件工程插件：8 skills（FreeRTOS/Keil/ARMCLANG/HardFault/状态机/LVGL/架构），dsh 原生 bundle 注入会话启动纪律门（1% Rule / Red Flags / Plan Verification Gate）",
-      "star": 0
+      "star": 0,
+      "domain": "🎓 技能包"
     },
     "logicprobe": {
       "full_name": "AmethystLuna/logicprobe",
@@ -15,7 +16,7 @@
       "verdict": "✅ 运行级可用",
       "desc": "设计文档与重构计划声明核查：claim 枚举 + 代码库事实核对 + 逻辑原语验证（7 结构 + 7 对抗探针），dsh 原生 bundle 注入核查纪律门",
       "star": 1,
-      "domain": "💻 编码开发"
+      "domain": "🎓 技能包"
     }
   }
 }

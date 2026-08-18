@@ -103,12 +103,12 @@ flowchart TB
 
 Per-plugin details (verdict · location · stars) in **PLUGINS-ALL.md**.
 
-- **🎓 技能包**（19）— OK 14 · incompatible 3 · pending 2 · untested 0 · watching 0 — [details](PLUGINS-ALL.md#-技能包19)
+- **🎓 技能包**（20）— OK 15 · incompatible 3 · pending 2 · untested 0 · watching 0 — [details](PLUGINS-ALL.md#-技能包20)
 - **🧠 记忆增强**（19）— OK 10 · incompatible 7 · pending 2 · untested 0 · watching 0 — [details](PLUGINS-ALL.md#-记忆增强19)
 - **🎨 主题皮肤**（8）— OK 4 · incompatible 0 · pending 3 · untested 1 · watching 0 — [details](PLUGINS-ALL.md#-主题皮肤8)
 - **🛒 市场与管理**（40）— OK 28 · incompatible 8 · pending 1 · untested 2 · watching 1 — [details](PLUGINS-ALL.md#-市场与管理40)
 - **🔌 Web UI 增强**（232）— OK 149 · incompatible 36 · pending 15 · untested 18 · watching 14 — [details](PLUGINS-ALL.md#-web-ui-增强232)
-- **💻 编码开发**（253）— OK 134 · incompatible 38 · pending 24 · untested 28 · watching 29 — [details](PLUGINS-ALL.md#-编码开发253)
+- **💻 编码开发**（252）— OK 133 · incompatible 38 · pending 24 · untested 28 · watching 29 — [details](PLUGINS-ALL.md#-编码开发252)
 - **🤖 Agent 能力**（240）— OK 135 · incompatible 42 · pending 20 · untested 22 · watching 21 — [details](PLUGINS-ALL.md#-agent-能力240)
 - **📡 消息通讯**（94）— OK 54 · incompatible 14 · pending 10 · untested 11 · watching 5 — [details](PLUGINS-ALL.md#-消息通讯94)
 - **🗂 文件数据**（75）— OK 40 · incompatible 17 · pending 8 · untested 6 · watching 4 — [details](PLUGINS-ALL.md#-文件数据75)

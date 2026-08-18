@@ -19,7 +19,7 @@
 
 ## 汇总：1851 条（已定位 1684 · 监测/未定位 167）· PR 登记 22 个
 
-## 🎓 技能包（19）
+## 🎓 技能包（20）
 
 - `[可用]` [forkprobe](https://github.com/Jayden-X-L/forkprobe) 66 — Compare multiple skills on the same task and pick the winner.
 - `[不兼容]` [mstar-harness](https://github.com/btspoony/mstar-harness) 46 — A Skill-driven Harness/Loop Engineering Workflow Agent Plugin
@@ -39,6 +39,7 @@
 - `[可用]` [DSH-plugin-switch](https://github.com/Nexus-Aethra/DSH-plugin-switch) 2 — DSH Plugin Switch is a marketplace for DeepSeek Harness plugins and skills
 - `[可用]` [dsh-data-ledger](https://github.com/Niuniu-Sir/dsh-data-ledger) 2 — 数据台账：DeepSeek Harness 本地数据统一看板——对话/账本/技能/记忆/日志的来源、位置与内容摘要，回收站删除、浏览器存储清理（dsh-plugin）
 - `[待定]` [dsh-wanghong-handwritten-ppt](https://github.com/tjxj/dsh-wanghong-handwritten-ppt) 2 — 王虹学术手写风 PPT Skill for DeepSeek Harness · Notability-style HTML slides and PNG ex
+- `[可用]` [logicprobe](https://github.com/AmethystLuna/logicprobe) 1 — 设计文档与重构计划声明核查：claim 枚举 + 代码库事实核对 + 逻辑原语验证（7 结构 + 7 对抗探针），dsh 原生 bundle 注入核查纪律门
 - `[可用]` [embedded-workbench](https://github.com/AmethystLuna/embedded-workbench) 0 — 嵌入式 C/C++ 固件工程插件：8 skills（FreeRTOS/Keil/ARMCLANG/HardFault/状态机/LVGL/架构），dsh 原生 bundle 注入会话启动纪律门（1% Rule / Red Flags / Plan Verification Gate）
 
 ## 🧠 记忆增强（19）
@@ -352,7 +353,7 @@
 - `[不兼容]` [dsh-tui-app](https://github.com/kouyichi/dsh-tui-app) 0 — DeepSeek Harness terminal UI plugin (Ink/React)
 - `[待定]` [dsh-Solarized](https://github.com/zhijun-dai/dsh-Solarized) 0 — Solarized + Selenized themes for DeepSeek Harness (dsh): four faithful palettes
 
-## 💻 编码开发（253）
+## 💻 编码开发（252）
 
 - `[未测]` [TokenTracker](https://github.com/xiufengsun/TokenTracker) 1312 — Local-first AI token usage & cost tracker for 31 coding tools incl
 - `[不兼容]` [paean-ai-deeptide](https://github.com/paean-ai/deeptide) 1066 — —
@@ -551,7 +552,6 @@
 - `[可用]` [dsh-figma-to-lottie](https://github.com/zimai233/dsh-figma-to-lottie) 1 — Figma/SVG to Lottie animation compiler for DeepSeek Harness
 - `[未测]` [dsh-plugin-code-review](https://github.com/YYTbit/dsh-plugin-code-review) 1 — Structured code review skill for DeepSeek Harness
 - `[可用]` [dsh-plugin-git-inspect](https://github.com/Wanbinyu/dsh-plugin-git-inspect) 1 — Read-only Git inspection tools for DeepSeek Harness
-- `[可用]` [logicprobe](https://github.com/AmethystLuna/logicprobe) 1 — 设计文档与重构计划声明核查：claim 枚举 + 代码库事实核对 + 逻辑原语验证（7 结构 + 7 对抗探针），dsh 原生 bundle 注入核查纪律门
 - `[可用]` [dsh-upstream-watch](https://github.com/t479842598/dsh-upstream-watch) 1 — DSH plugin: watch GitHub upstream repos for new commits on default branch, live
 - `[待定]` [dsh-provider-billing](https://github.com/ZeroingIn/dsh-provider-billing) 1 — DeepSeek Harness plugin: provider account balance inside each Models settings ro
 - `[不兼容]` [dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) 1 — Zero-config Exa web search provider for DeepSeek Harness (dsh): keyless anonymou
